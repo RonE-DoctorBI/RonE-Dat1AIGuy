@@ -1,45 +1,36 @@
 # Brand lock
 
-Last locked: 2026-09-12
 Home: **Passive Income project**
-Status: **PERMANENT** until the user overrides in writing.
+Updated: 2026-09-12. Prior line "DoctorBI is retired" is void.
 
-DoctorBI is **not** retired. Do not treat it as a dead brand.
+- Human: **RonE** (Ronnie Emamali)
+- Identity: **Dat1Trini** (not a product)
+- Forbidden: **RonEai** (any casing)
 
-## Architecture
+## Properties
 
-- Human: **RonE**
-- Identity: **Dat1Trini** (not a product, not a persona)
-- Persona 1 (personal): **DoctorBI** / **Dr BI** — live personal persona
-- Persona 2: **Dat1AIGuy** / **that one AI guy** — second persona
-- Property: **Sheet Therapy** — Facebook group AND website
-- Home project: **Passive Income**
+- **Sheet Therapy** (`sheettherapy`): Facebook group AND website. Community + site property. Not a persona.
 
-## Do not
+## Personas
 
-- Do not treat DoctorBI as retired
-- Do not use **RonEai** (any casing)
-- Do not treat Sheet Therapy as a third persona or a third public handle
-- Do not treat Dat1Trini as a product lane
+- **DoctorBI / Dr BI**: personal persona. LIVE. Do not treat as retired.
+- **Dat1AIGuy** ("that one AI guy"): second persona.
 
-## Content lanes still on file (not revoked this lock)
+## Content lanes (not personas)
 
 - **NamedRange** — Excel + Power Pivot
 - **MaxDAX** — Power BI + DAX
-- **Dat1AIGuy** — AI (also the second persona)
 
-## Sign
+## Sign / consult
 
-- Sign: `RonE | [lane]` when a lane is on the byline
+- Sign: `RonE | [persona or lane]`
 - Consult: `1-844-44-AIBOT`
 
 ## GitHub
 
-- Live AI repo: `RonE-DoctorBI/RonE-Dat1AIGuy`
-- Personal site repo: `RonE-DoctorBI/RonE-DoctorBI.github.io`
-- Account login: `RonE-DoctorBI`
+- AI-persona repo: `RonE-DoctorBI/RonE-Dat1AIGuy`
+- Personal site: `RonE-DoctorBI/RonE-DoctorBI.github.io`
+- Account login remains `RonE-DoctorBI` until renamed
 - Mailbox `email-doctorbi@agentmail.to` is a pipe only, not a brand
 
-## Reminder
-
-Always apply this lock when working on Sheet Therapy, DoctorBI, Dat1AIGuy, or the Passive Income project.
+Remind this lock on every Passive Income / growth / content task.
