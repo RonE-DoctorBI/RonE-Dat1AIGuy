@@ -1,11 +1,21 @@
 # Brand lock
 
 Home: **Passive Income project**
-Updated: 2026-09-12. Prior line "DoctorBI is retired" is void.
+Updated: 2026-09-14.
 
 - Human: **RonE** (Ronnie Emamali)
 - Identity: **Dat1Trini** (not a product)
 - Forbidden: **RonEai** (any casing)
+
+## Precedence — owner lock 14 Sep 2026
+
+**DoctorBI / Dr BI takes precedence.**
+Do **not** consolidate public identity into one Sheet Therapy.
+
+- Public / GitHub face: **DoctorBI**. Canonical repo: `RonE-DoctorBI/RonE-DoctorBI.github.io`
+- Sheet Therapy: Facebook group AND website. Property, not the parent brand.
+- Dat1AIGuy: second persona / ops label only. Not the GitHub mark.
+- Comics: never print DoctorBI on Workflow Wizard pages. Line is only: Sheet Therapy presents Workflow Wizard.
 
 ## Properties
 
@@ -13,8 +23,8 @@ Updated: 2026-09-12. Prior line "DoctorBI is retired" is void.
 
 ## Personas
 
-- **DoctorBI / Dr BI**: personal persona. LIVE. Do not treat as retired.
-- **Dat1AIGuy** ("that one AI guy"): second persona.
+- **DoctorBI / Dr BI**: personal persona. LIVE. Takes precedence.
+- **Dat1AIGuy** ("that one AI guy"): second persona / ops only.
 
 ## Content lanes (not personas)
 
@@ -23,14 +33,12 @@ Updated: 2026-09-12. Prior line "DoctorBI is retired" is void.
 
 ## Sign / consult
 
-- Sign: `RonE | [persona or lane]`
+- Sign: `RonE | DoctorBI`
 - Consult: `1-844-44-AIBOT`
 
-## GitHub
+## GitHub hygiene
 
-- AI-persona repo: `RonE-DoctorBI/RonE-Dat1AIGuy`
-- Personal site: `RonE-DoctorBI/RonE-DoctorBI.github.io`
-- Account login remains `RonE-DoctorBI` until renamed
-- Mailbox `email-doctorbi@agentmail.to` is a pipe only, not a brand
-
-Remind this lock on every Passive Income / growth / content task.
+- Canonical public repo: `RonE-DoctorBI/RonE-DoctorBI.github.io`
+- This Dat1AIGuy repo is not the public face. Leave it until owner types delete.
+- Never commit employer, client, or company-proprietary files.
+- Off-GitHub home: Notion **GitHub hygiene — no employer IP**.
